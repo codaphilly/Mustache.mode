@@ -11,7 +11,7 @@ Installation
 ------------
 
 Drop `Mustache.mode` into `~/Library/Application Support/Coda 2/Modes` (or `.../Coda/Modes`
-if you're not using Coda 2). If that folder doesn't exist, create it.
+if you're not using [Coda](http://www.codaphilly.com/) 2). If that folder doesn't exist, create it.
 
 
 
